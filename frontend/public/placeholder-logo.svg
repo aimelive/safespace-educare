@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 56" fill="none">
+  <defs>
+    <style>
+      .brand-name {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        fill: white;
+      }
+      .brand-sub {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        fill: #CC1A2E;
+        letter-spacing: 3px;
+      }
+    </style>
+  </defs>
+
+  <!-- Icon: ALU Navy rounded square -->
+  <rect x="0" y="4" width="48" height="48" rx="10" fill="#152060"/>
+  <rect x="3" y="7" width="42" height="42" rx="8" fill="none" stroke="white" stroke-opacity="0.1" stroke-width="1.5"/>
+
+  <!-- White shield inside icon -->
+  <path d="M10 14 L38 14 L38 34 C38 44 24 51 24 51 C24 51 10 44 10 34 Z"
+        fill="white"/>
+
+  <!-- Red heart inside shield -->
+  <path d="M24 43
+           C16 37 9 31 9 24
+           C9 19 13 15 18 15
+           C21 15 23 17 24 20
+           L24 22 L26 20
+           C27 17 29 15 32 15
+           C37 15 41 19 41 24
+           C41 31 34 37 24 43 Z"
+        fill="#CC1A2E"/>
+
+  <!-- Brand text -->
+  <text x="60" y="28" class="brand-name">SafeSpace</text>
+  <text x="61" y="46" class="brand-sub">EDUCARE</text>
+</svg>

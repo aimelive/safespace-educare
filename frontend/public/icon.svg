@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <!-- ALU Navy background -->
+  <rect width="180" height="180" rx="36" fill="#152060"/>
+
+  <!-- Subtle inner glow ring -->
+  <rect x="6" y="6" width="168" height="168" rx="31" fill="none" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+
+  <!-- White shield (SafeSpace) -->
+  <path d="M34 36 L146 36 L146 102 C146 134 90 158 90 158 C90 158 34 134 34 102 Z"
+        fill="white"/>
+
+  <!-- ALU Red heart inside shield (Educare / care) -->
+  <path d="M90 120
+           C68 105 46 90 46 72
+           C46 60 55 51 66 51
+           C73 51 80 55 84 62
+           L90 70 L96 62
+           C100 55 107 51 114 51
+           C125 51 134 60 134 72
+           C134 90 112 105 90 120 Z"
+        fill="#CC1A2E"/>
+</svg>
